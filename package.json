@@ -1,6 +1,17 @@
 {
   "dependencies": {
     "bootstrap": "4.0.0-alpha.6",
-    "react-bootstrap": "^0.32.4"
-  }
+    "prop-types-extra": "^1.1.0",
+    "react": "16.6.3",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.6.3"
+  },
+  "name": "react",
+  "version": "y",
+  "description": "idk",
+  "main": "no",
+  "repository": "n",
+  "author": "yes",
+  "license": "MIT",
+  "private": false
 }
